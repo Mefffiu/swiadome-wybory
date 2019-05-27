@@ -9,8 +9,8 @@
       name="Wewn. funkcje, procesy, węzły techniczne"
       textAlignment="1">
     <bounds
-        x="408"
-        y="264"
+        x="12"
+        y="192"
         width="1237"
         height="432"/>
     <children
@@ -471,8 +471,8 @@
       name="Warstwa fizyczna"
       textAlignment="1">
     <bounds
-        x="408"
-        y="708"
+        x="12"
+        y="636"
         width="1081"
         height="193"/>
     <children
@@ -673,8 +673,8 @@
       name="Zewnętrzna usługi techniczne"
       textAlignment="1">
     <bounds
-        x="408"
-        y="84"
+        x="12"
+        y="12"
         width="814"
         height="145"/>
     <children

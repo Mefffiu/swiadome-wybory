@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Warstwa Motywacji"
-    id="43bb7ea2-d48e-4e43-8e39-6000cc71782f">
+    id="43bb7ea2-d48e-4e43-8e39-6000cc71782f"
+    viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="01bb85af-3a3a-4415-a81e-8597ea2686ce">
