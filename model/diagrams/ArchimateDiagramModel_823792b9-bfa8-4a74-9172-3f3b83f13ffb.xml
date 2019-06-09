@@ -10,7 +10,7 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="300"
+        y="288"
         width="1033"
         height="432"/>
     <children
@@ -480,7 +480,7 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="744"
+        y="732"
         width="1033"
         height="229"/>
     <children
@@ -685,7 +685,7 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="24"
+        y="12"
         width="1033"
         height="229"/>
     <children
