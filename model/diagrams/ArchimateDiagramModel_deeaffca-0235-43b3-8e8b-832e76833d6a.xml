@@ -13,29 +13,7 @@
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="61ead8d8-a843-4f22-adb2-4fb61626c79e"
-        targetConnections="0aa62234-cec5-48f1-bb48-38e5b2c986b4 b8ff24f5-a5c7-44a0-9a1c-151dce8717ad 50b19925-902f-454c-bbf8-1f79755d4e60 c233a77b-3b9a-498d-9bc7-16fe510ad030">
-      <bounds
-          x="684"
-          y="36"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessRole"
-          href="BusinessRole_47f23db0-9b89-4818-848e-c368cd96f773.xml#47f23db0-9b89-4818-848e-c368cd96f773"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="b0c75a94-34d5-4f05-af8d-2ab5b2a0188a">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="0aa62234-cec5-48f1-bb48-38e5b2c986b4"
-          source="b0c75a94-34d5-4f05-af8d-2ab5b2a0188a"
-          target="61ead8d8-a843-4f22-adb2-4fb61626c79e">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_fd53ba23-6641-49c3-bfdf-2b38a63d7c7c.xml#fd53ba23-6641-49c3-bfdf-2b38a63d7c7c"/>
-      </sourceConnections>
       <bounds
           x="480"
           y="36"
@@ -66,15 +44,6 @@
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_cb57624d-7359-4bf9-82de-6be149da4fbc.xml#cb57624d-7359-4bf9-82de-6be149da4fbc"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="b8ff24f5-a5c7-44a0-9a1c-151dce8717ad"
-          source="d3475b6a-dc62-4338-9277-04d633b82ed3"
-          target="61ead8d8-a843-4f22-adb2-4fb61626c79e">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_6e5319e0-fc73-49de-bae0-06da760f9618.xml#6e5319e0-fc73-49de-bae0-06da760f9618"/>
       </sourceConnections>
       <bounds
           x="684"
@@ -115,25 +84,6 @@
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_63516c7f-ff92-466e-8959-8ddc369dad8f.xml#63516c7f-ff92-466e-8959-8ddc369dad8f"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="50b19925-902f-454c-bbf8-1f79755d4e60"
-          source="811ef703-297d-4ecb-86ad-b25a196d355a"
-          target="61ead8d8-a843-4f22-adb2-4fb61626c79e">
-        <bendpoints
-            startX="-2"
-            startY="-230"
-            endX="-96"
-            endY="58"/>
-        <bendpoints
-            startX="82"
-            startY="-230"
-            endX="-12"
-            endY="58"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_b85a8e80-3d6e-433d-8c29-b4533ba29c18.xml#b85a8e80-3d6e-433d-8c29-b4533ba29c18"/>
-      </sourceConnections>
       <bounds
           x="588"
           y="204"
@@ -160,25 +110,6 @@
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_4f8dc3b1-f782-4e60-85d6-1079eb1955e6.xml#4f8dc3b1-f782-4e60-85d6-1079eb1955e6"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="c233a77b-3b9a-498d-9bc7-16fe510ad030"
-          source="190ced0a-d21d-4293-97af-c8fa33e63d5f"
-          target="61ead8d8-a843-4f22-adb2-4fb61626c79e">
-        <bendpoints
-            startX="-2"
-            startY="-230"
-            endX="96"
-            endY="58"/>
-        <bendpoints
-            startX="-86"
-            startY="-230"
-            endX="12"
-            endY="58"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_4073d5dd-8346-4efa-a15e-f6fb1059a97d.xml#4073d5dd-8346-4efa-a15e-f6fb1059a97d"/>
       </sourceConnections>
       <bounds
           x="780"
