@@ -36,7 +36,7 @@
           href="CompositionRelationship_52f59a5c-6da7-41d1-899a-a43a87d1458c.xml#52f59a5c-6da7-41d1-899a-a43a87d1458c"/>
     </sourceConnections>
     <bounds
-        x="708"
+        x="684"
         y="12"
         width="313"
         height="193"/>
@@ -181,7 +181,7 @@
           href="CompositionRelationship_9a07ff97-445d-4f20-b1b8-81254197e43d.xml#9a07ff97-445d-4f20-b1b8-81254197e43d"/>
     </sourceConnections>
     <bounds
-        x="360"
+        x="348"
         y="12"
         width="313"
         height="193"/>
@@ -254,7 +254,7 @@
           href="RealizationRelationship_77fd8445-d841-44a9-ab1f-7a10ab806740.xml#77fd8445-d841-44a9-ab1f-7a10ab806740"/>
     </sourceConnections>
     <bounds
-        x="805"
+        x="781"
         y="252"
         width="120"
         height="55"/>
@@ -296,7 +296,7 @@
           href="RealizationRelationship_2917158a-722d-4e7d-bfb9-7def051d6f70.xml#2917158a-722d-4e7d-bfb9-7def051d6f70"/>
     </sourceConnections>
     <bounds
-        x="457"
+        x="445"
         y="252"
         width="120"
         height="55"/>
